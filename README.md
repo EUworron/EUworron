@@ -32,19 +32,15 @@
 
 ---
 
-## 🌌 My Games
-Here are a few projects I've been working on:
-1. **[ClickerAttack][(https://haveibeenleaked.xyz/)]:** A strategy Survival Game.
-2. **[HaveIBeenLeaked]((https://haveibeenleaked.xyz/)):** An intergalactic strategy game.
-3. **[AI Dungeon](https://github.com/your-username/ai-dungeon):** A procedurally generated adventure game.
+## 🌌 My Projects
+Here are a few projects I've been working on: **[HaveIBeenLeaked][(https://haveibeenleaked.xyz/)]:** An intergalactic strategy game.
+
 
 ---
 
 ## 📬 Connect With Me
 Feel free to reach out for collaboration or just to say hi!
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 💌 [Email](mailto:your-email@example.com)
+- 💌 [Email](worron.dev@gmail.com)
 
 ---
 
