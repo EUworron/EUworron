@@ -34,7 +34,7 @@
 
 ## 🌌 My Games
 Here are a few projects I've been working on:
-1. **[ClickerAttack]((https://haveibeenleaked.xyz/)):** A strategy Survival Game.
+1. **[ClickerAttack][(https://haveibeenleaked.xyz/)]:** A strategy Survival Game.
 2. **[HaveIBeenLeaked]((https://haveibeenleaked.xyz/)):** An intergalactic strategy game.
 3. **[AI Dungeon](https://github.com/your-username/ai-dungeon):** A procedurally generated adventure game.
 
