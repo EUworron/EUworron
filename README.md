@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 What I Do
-- **Languages:** C#, Python, and JavaScript, SQL.
+- **Languages:** C#, Python, JavaScript and SQL.
 - **Frameworks & Tools:** Unity, Godot, Blender, and more.
 - **Specialties:** Gameplay programming, level design, and procedural generation, Databases
 
