@@ -1,7 +1,7 @@
 # 🎮 Welcome to My GitHub! 🎮
 
 <h1 align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/EUworron" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=4FFBDF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+a+Game+Developer!;I+create+fun+and+immersive+games.;Coding+is+my+superpower!;Let's+build+something+amazing." alt="Typing SVG" />
   </a>
 </h1>
